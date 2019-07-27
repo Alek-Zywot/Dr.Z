@@ -4,6 +4,6 @@ This is a simple site I use to host all those little bits of information I need 
 
 ### About Me
 
-Well, **Bold**IM awesomeness
+Well, **IM** awesomeness!
 
 
